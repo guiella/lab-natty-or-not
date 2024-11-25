@@ -1,7 +1,7 @@
 <h1> 📚 Meu Portfólio - IA GENERATIVA </h1>
 
 ## 🌸 Descrição
-Criação de livro inspirado em obras que já li.
+Criação de ebook para análise literária.
 
 ## 🌸 Tecnologias Utilizadas
 Foram utilizados CHATGPT + MICROSOFT DESIGNER
