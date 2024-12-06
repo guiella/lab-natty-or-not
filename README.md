@@ -4,10 +4,10 @@
 Criação de ebook para análise literária.
 
 ## 🌸 Tecnologias Utilizadas
-Foram utilizados CHATGPT + MICROSOFT DESIGNER
+Foram utilizados CHATGPT + Leonardo AI
 
 ## 🌸 Processo de Criação
-Pedi que o CHATGPT criasse o resumo e no Microsoft Designer descrevi o prompt para as imagens.
+Pedi que o CHATGPT criasse o resumo e no Leonardo AI descrevi o prompt para as imagens e Canva para diagramação.
 
 ## 🌸 Resultados
 Para visualizar os livros é so clicar em Ler Online
